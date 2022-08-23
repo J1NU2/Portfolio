@@ -26,7 +26,7 @@
 >
 > - 개발 기간 : 2022.04.25 ~ 2022.04.27
 > - 개발 인원 : 1명 (개인 프로젝트)
-> - 기술 스택 : python3, pygame
+> - 기술 스택 : Python3, Pygame
 >
 > [프로젝트 상세 보기](https://github.com/J1NU2/Racoon_Same_Pygame)
 
@@ -37,7 +37,7 @@
 >
 > - 개발 기간 : 2022.05.18 ~ 2022.05.25
 > - 개발 인원 : 4명 (팀 프로젝트)
-> - 기술 스택 : 
+> - 기술 스택 : Python3, Flask, MongoDB, PyTorch, HTML, CSS, Javascript
 >
 > [프로젝트 상세 보기 (Backend)](https://github.com/J1NU2/SNL_Object_Detection_Backend)  
 > [프로젝트 상세 보기 (Frontend)](https://github.com/J1NU2/SNL_Object_Detection_Frontend)
@@ -49,7 +49,7 @@
 >
 > - 개발 기간 : 2022.06.02 ~ 2022.06.14
 > - 개발 인원 : 4명 (팀 프로젝트)
-> - 기술 스택 : 
+> - 기술 스택 : Python3, Django, Pandas, Scikit-learn, HTML, CSS, Javascript
 >
 > [프로젝트 상세 보기](https://github.com/J1NU2/Django_Netflix)
 
@@ -60,7 +60,7 @@
 >
 > - 개발 기간 : 2022.06.28 ~ 2022.07.06
 > - 개발 인원 : 4명 (팀 프로젝트)
-> - 기술 스택 : 
+> - 기술 스택 : Python3, Django, Django-rest-framework, HTML, CSS, Javascript
 >
 > [프로젝트 상세 보기 (Backend)](https://github.com/J1NU2/MyLittleShoes_Backend)  
 > [프로젝트 상세 보기 (Frontend)](https://github.com/J1NU2/MyLittleShoes_Frontend)
@@ -70,8 +70,8 @@
 ## 5. 🛫 My Little Trip
 > 여행 일정 추천받기
 >
-> - 개발 기간 : 2022.07.07 ~ 2022.
+> - 개발 기간 : 2022.07.07 ~ 2022.09.02
 > - 개발 인원 : 4명 (팀 프로젝트)
-> - 기술 스택 : 
+> - 기술 스택 : Python3, Django, Django-rest-framework
 >
 > [프로젝트 상세 보기 (Backend)](https://github.com/J1NU2/MyLittleTrip_Backend)
