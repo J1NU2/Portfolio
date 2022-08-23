@@ -49,7 +49,7 @@
 >
 > - 개발 기간 : 2022.06.02 ~ 2022.06.14
 > - 개발 인원 : 4명 (팀 프로젝트)
-> - 기술 스택 : Python3, Django, Pandas, Scikit-learn, HTML, CSS, Javascript
+> - 기술 스택 : Python3, Django, MySQL, Pandas, Scikit-learn, HTML, CSS, Javascript
 >
 > [프로젝트 상세 보기](https://github.com/J1NU2/Django_Netflix)
 
