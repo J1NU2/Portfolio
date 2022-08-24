@@ -7,13 +7,13 @@
 # 👋 Introduce
 
 안녕하세요.  
-스파르타코딩클럽 내일배움캠프 AI 2기를 졸업하고 Django Backend 개발자로서 성장 중인 박진우입니다.
+스파르타코딩클럽 내일배움캠프 AI 2기를 졸업하고 Python Django Backend 개발자로서 성장 중인 박진우입니다.
 
 <br/>
 
 # 📞 Contact
 
-- Email : pj1nu@gmail.com
+- Email : pj1nu2@gmail.com
 - Blog : https://sdrtst.tistory.com/
 - Github : https://github.com/J1NU2
 
