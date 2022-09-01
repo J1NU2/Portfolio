@@ -21,41 +21,18 @@
 
 # 📝 Project
 
-## 1. 🦝 A racoon trick
-> 같은 그림 찾기 Python Game
+## 🛫 My Little Trip
+> 여행 일정 추천받기
 >
-> - 개발 기간 : 2022.04.25 ~ 2022.04.27
-> - 개발 인원 : 1명 (개인 프로젝트)
-> - 기술 스택 : Python3, Pygame
->
-> [프로젝트 상세 보기](https://github.com/J1NU2/Racoon_Same_Pygame)
-
-<br/>
-
-## 2. 😊 SNL 연예인 닮은 꼴 찾기
-> 사물인식 머신러닝을 이용한 SNL 연예인 닮은 꼴 찾기
->
-> - 개발 기간 : 2022.05.18 ~ 2022.05.25
+> - 개발 기간 : 2022.07.07 ~ 2022.09.02
 > - 개발 인원 : 4명 (팀 프로젝트)
-> - 기술 스택 : Python3, Flask, MongoDB, PyTorch, HTML, CSS, Javascript
+> - 기술 스택 : Python3, Django, Django-rest-framework
 >
-> [프로젝트 상세 보기 (Backend)](https://github.com/J1NU2/SNL_Object_Detection_Backend)  
-> [프로젝트 상세 보기 (Frontend)](https://github.com/J1NU2/SNL_Object_Detection_Frontend)
+> [프로젝트 상세 보기 (Backend)](https://github.com/J1NU2/MyLittleTrip_Backend)
 
 <br/>
 
-## 3. 🎥 Netflix
-> 추천 시스템을 이용한 영화 추천 사이트(Netflix)
->
-> - 개발 기간 : 2022.06.02 ~ 2022.06.14
-> - 개발 인원 : 4명 (팀 프로젝트)
-> - 기술 스택 : Python3, Django, MySQL, Pandas, Scikit-learn, HTML, CSS, Javascript
->
-> [프로젝트 상세 보기](https://github.com/J1NU2/Django_Netflix)
-
-<br/>
-
-## 4. 👟 My Little Shoes
+## 👟 My Little Shoes
 > 나만의 신발 스타일링하기
 >
 > - 개발 기간 : 2022.06.28 ~ 2022.07.06
@@ -67,11 +44,34 @@
 
 <br/>
 
-## 5. 🛫 My Little Trip
-> 여행 일정 추천받기
+## 🎥 Netflix
+> 추천 시스템을 이용한 영화 추천 사이트(Netflix)
 >
-> - 개발 기간 : 2022.07.07 ~ 2022.09.02
+> - 개발 기간 : 2022.06.02 ~ 2022.06.14
 > - 개발 인원 : 4명 (팀 프로젝트)
-> - 기술 스택 : Python3, Django, Django-rest-framework
+> - 기술 스택 : Python3, Django, MySQL, Pandas, Scikit-learn, HTML, CSS, Javascript
 >
-> [프로젝트 상세 보기 (Backend)](https://github.com/J1NU2/MyLittleTrip_Backend)
+> [프로젝트 상세 보기](https://github.com/J1NU2/Django_Netflix)
+
+<br/>
+
+## 😊 SNL 연예인 닮은 꼴 찾기
+> 사물인식 머신러닝을 이용한 SNL 연예인 닮은 꼴 찾기
+>
+> - 개발 기간 : 2022.05.18 ~ 2022.05.25
+> - 개발 인원 : 4명 (팀 프로젝트)
+> - 기술 스택 : Python3, Flask, MongoDB, PyTorch, HTML, CSS, Javascript
+>
+> [프로젝트 상세 보기 (Backend)](https://github.com/J1NU2/SNL_Object_Detection_Backend)  
+> [프로젝트 상세 보기 (Frontend)](https://github.com/J1NU2/SNL_Object_Detection_Frontend)
+
+<br/>
+
+## 🦝 A racoon trick
+> 같은 그림 찾기 Python Game
+>
+> - 개발 기간 : 2022.04.25 ~ 2022.04.27
+> - 개발 인원 : 1명 (개인 프로젝트)
+> - 기술 스택 : Python3, Pygame
+>
+> [프로젝트 상세 보기](https://github.com/J1NU2/Racoon_Same_Pygame)
